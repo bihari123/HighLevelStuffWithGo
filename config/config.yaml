@@ -1,0 +1,9 @@
+runmode: development
+app:
+  development:
+    databaseConfig:
+      user: postgres
+      password: tarun123
+      host: localhost
+      database: testdb 
+      port: 5432 
